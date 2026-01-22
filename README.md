@@ -44,7 +44,7 @@ Una API Key di OpenAI (inizia con sk-...).
 
 Apri il terminale (o Prompt dei Comandi) e scarica il progetto:
 
-git clone [https://github.com/IL_TUO_USERNAME/financial-rag-streamlit.git](https://github.com/IL_TUO_USERNAME/financial-rag-streamlit.git)
+git clone [https://github.com/riccardopolito80-prog/financial-rag-streamlit.git](https://github.com/riccardopolito80-prog/financial-rag-streamlit.git)
 cd financial-rag-streamlit
 
 
